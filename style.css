@@ -1,0 +1,59 @@
+body {
+    font-family: "Open Sans", sans-serif;
+    background: #090040;
+    margin: 0px;
+    margin-bottom: 100px;
+    color: #FFFFFF;
+}
+
+header {
+    border-bottom: solid 2px #B13BFF;
+    padding: 20px;
+    font-size: 32px;
+    color: #fbff00;
+
+}
+
+.melhor-anime {
+    background: #471396;
+    padding-bottom: 80px;
+    display: flex;
+    justify-content: center;
+}
+
+.texto-inicial {
+    margin-right: 5%;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+p {
+    font-size: 20px;
+}
+
+
+.animes {
+    background: #2f00ff;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+}
+
+h2 {
+    color: #3bc7ff;
+    padding: 30px;
+}
+
+.animes-videos{
+    display: flex;
+    overflow-x: auto;
+    gap: 10px;
+}
+img {
+    height: 200px;
+}
+
+
+
